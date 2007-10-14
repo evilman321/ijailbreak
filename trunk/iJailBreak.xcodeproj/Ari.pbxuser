@@ -1,0 +1,362 @@
+// !$*UTF8*$!
+{
+	021187D30CC284CB008ABB17 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 02E556070CC01EEA0074248F /* install.applescript */;
+		name = "install.applescript: 67";
+		rLen = 0;
+		rLoc = 4039;
+		rType = 0;
+		vrLen = 2527;
+		vrLoc = 1618;
+	};
+	021187F00CC2857E008ABB17 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 02E556070CC01EEA0074248F /* install.applescript */;
+		name = "install.applescript: 67";
+		rLen = 0;
+		rLoc = 4039;
+		rType = 0;
+		vrLen = 2527;
+		vrLoc = 1618;
+	};
+	0211880F0CC28F03008ABB17 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 02E556070CC01EEA0074248F /* install.applescript */;
+		name = "install.applescript: 66";
+		rLen = 0;
+		rLoc = 4039;
+		rType = 0;
+		vrLen = 1332;
+		vrLoc = 240;
+	};
+	021188130CC28F13008ABB17 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 02E556070CC01EEA0074248F /* install.applescript */;
+		name = "install.applescript: 66";
+		rLen = 0;
+		rLoc = 4039;
+		rType = 0;
+		vrLen = 1338;
+		vrLoc = 240;
+	};
+	021188150CC28F2E008ABB17 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 02E556070CC01EEA0074248F /* install.applescript */;
+		name = "install.applescript: 66";
+		rLen = 0;
+		rLoc = 4039;
+		rType = 0;
+		vrLen = 2447;
+		vrLoc = 1663;
+	};
+	0211881B0CC29483008ABB17 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 02E556070CC01EEA0074248F /* install.applescript */;
+		name = "install.applescript: 64";
+		rLen = 0;
+		rLoc = 4039;
+		rType = 0;
+		vrLen = 1012;
+		vrLoc = 0;
+	};
+	0211881F0CC294E4008ABB17 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 02E556070CC01EEA0074248F /* install.applescript */;
+		name = "install.applescript: 64";
+		rLen = 0;
+		rLoc = 4039;
+		rType = 0;
+		vrLen = 2427;
+		vrLoc = 713;
+	};
+	021188230CC29509008ABB17 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 02E556070CC01EEA0074248F /* install.applescript */;
+		name = "install.applescript: 64";
+		rLen = 0;
+		rLoc = 4039;
+		rType = 0;
+		vrLen = 2427;
+		vrLoc = 713;
+	};
+	024989EF0B17388900E78228 /* (null):2 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		functionName = "on choose menu item";
+		hitCount = 0;
+		lineNumber = 2;
+		modificationTime = 186071188.378648;
+		state = 1;
+	};
+	024989F10B17388D00E78228 /* (null):4 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		functionName = "on choose menu item";
+		hitCount = 0;
+		lineNumber = 4;
+		modificationTime = 186071185.546569;
+		state = 2;
+	};
+	0250440F0ADE5A34003772F2 /* XCBreakpointsBucket */ = {
+		isa = XCBreakpointsBucket;
+		name = "Project Breakpoints";
+		objects = (
+			0262BFBF0AE1214100FA4B6C /* iJailBreak.applescript:7 */,
+			024989EF0B17388900E78228 /* (null):2 */,
+			024989F10B17388D00E78228 /* (null):4 */,
+		);
+	};
+	0262BFBF0AE1214100FA4B6C /* iJailBreak.applescript:7 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		fileReference = DA206CF3015C4E8B03C91932 /* iJailBreak.applescript */;
+		functionName = "on clicked";
+		hitCount = 1;
+		lineNumber = 7;
+		modificationTime = 184206052.171444;
+		state = 1;
+	};
+	02E556070CC01EEA0074248F /* install.applescript */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2239, 960}}";
+			sepNavSelRange = "{4039, 0}";
+			sepNavVisRect = "{{0, 287}, {711, 429}}";
+			sepNavWindowFrame = "{{574, 188}, {750, 558}}";
+		};
+	};
+	02E557320CC27E270074248F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 02E556070CC01EEA0074248F /* install.applescript */;
+		name = "install.applescript: 67";
+		rLen = 0;
+		rLoc = 4039;
+		rType = 0;
+		vrLen = 2527;
+		vrLoc = 1618;
+	};
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {711, 429}}";
+			sepNavSelRange = "{143, 0}";
+			sepNavVisRect = "{{0, 0}, {711, 429}}";
+			sepNavWindowFrame = "{{28, -107}, {750, 558}}";
+		};
+	};
+	257572C2072881A4000BE9CA /* iJailBreak */ = {
+		activeExec = 0;
+		executables = (
+			25D9445407B1533600FF306F /* iJailBreak */,
+		);
+	};
+	257572D5072881A4000BE9CA /* Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {962, 462}}";
+			sepNavSelRange = "{957, 0}";
+			sepNavVisRect = "{{0, 0}, {962, 227}}";
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+	25D9445407B1533600FF306F /* iJailBreak */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		configStateDict = {
+			"PBXLSLaunchAction-1" = {
+				PBXLSLaunchAction = 1;
+				PBXLSLaunchStartAction = 1;
+				PBXLSLaunchStdioStyle = 2;
+				PBXLSLaunchStyle = 0;
+				class = ASKDebuggerLaunchConfig;
+				displayName = "AppleScript Debugger";
+				identifier = com.apple.AppleScriptStudio.ASKDebugLaunchConfig;
+				remoteHostInfo = "";
+				startActionInfo = "";
+			};
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = ASKDebugger;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+			{
+				active = NO;
+				name = AEDebug;
+				value = 1;
+			},
+			{
+				active = NO;
+				name = AEDebugSends;
+				value = 1;
+			},
+			{
+				active = NO;
+				name = AEDebugReceives;
+				value = 1;
+			},
+			{
+				active = NO;
+				name = AEDebugVerbose;
+				value = 1;
+			},
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iJailBreak;
+		sourceDirectories = (
+		);
+	};
+	25D9445A07B1533700FF306F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	25D9445B07B1533700FF306F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 25D9445407B1533600FF306F /* iJailBreak */;
+		activeTarget = 257572C2072881A4000BE9CA /* iJailBreak */;
+		addToTargets = (
+			257572C2072881A4000BE9CA /* iJailBreak */,
+		);
+		breakpoints = (
+			0262BFBF0AE1214100FA4B6C /* iJailBreak.applescript:7 */,
+			024989EF0B17388900E78228 /* (null):2 */,
+			024989F10B17388D00E78228 /* (null):4 */,
+		);
+		breakpointsGroup = 0250440F0ADE5A34003772F2 /* XCBreakpointsBucket */;
+		codeSenseManager = 25D9445B07B1533700FF306F /* Code sense */;
+		executables = (
+			25D9445407B1533600FF306F /* iJailBreak */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					133,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					131,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					200,
+					63,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 214074659;
+			PBXWorkspaceStateSaveDate = 214074659;
+		};
+		perUserProjectItems = {
+			021187D30CC284CB008ABB17 = 021187D30CC284CB008ABB17 /* PBXTextBookmark */;
+			021187F00CC2857E008ABB17 /* PBXTextBookmark */ = 021187F00CC2857E008ABB17 /* PBXTextBookmark */;
+			0211880F0CC28F03008ABB17 /* PBXTextBookmark */ = 0211880F0CC28F03008ABB17 /* PBXTextBookmark */;
+			021188130CC28F13008ABB17 /* PBXTextBookmark */ = 021188130CC28F13008ABB17 /* PBXTextBookmark */;
+			021188150CC28F2E008ABB17 /* PBXTextBookmark */ = 021188150CC28F2E008ABB17 /* PBXTextBookmark */;
+			0211881B0CC29483008ABB17 /* PBXTextBookmark */ = 0211881B0CC29483008ABB17 /* PBXTextBookmark */;
+			0211881F0CC294E4008ABB17 /* PBXTextBookmark */ = 0211881F0CC294E4008ABB17 /* PBXTextBookmark */;
+			021188230CC29509008ABB17 /* PBXTextBookmark */ = 021188230CC29509008ABB17 /* PBXTextBookmark */;
+			02E557320CC27E270074248F = 02E557320CC27E270074248F /* PBXTextBookmark */;
+		};
+		sourceControlManager = 25D9445A07B1533700FF306F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {711, 429}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {711, 429}}";
+			sepNavWindowFrame = "{{508, 212}, {750, 558}}";
+		};
+	};
+	DA206CF3015C4E8B03C91932 /* iJailBreak.applescript */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.applescript;
+		name = iJailBreak.applescript;
+		path = /Users/Ari/iJailBreak/iJailBreak.applescript;
+		sourceTree = "<absolute>";
+	};
+}
