@@ -1,0 +1,1 @@
+Thanks for the supporting this project! However, it's currently inactive, and no downloads work on current versions of the iPhone's software.
